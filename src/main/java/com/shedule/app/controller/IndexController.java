@@ -1,4 +1,4 @@
-package com.shedule.app;
+package com.shedule.app.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
